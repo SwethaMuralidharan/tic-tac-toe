@@ -1,8 +1,21 @@
 #board {
   margin-top: 10px;
+  background-color: blue;
 }
 
 .box {
   border: 1px solid black;
   height: 150px;
+  font-size: 100px;
+  text-align: center;
+}
+.btn-primary{
+  margin:10px;
+  margin-left:-50px;
+}
+.addX{
+  color:#ff0000;
+}
+.addO{
+  color:#00ff00;
 }
